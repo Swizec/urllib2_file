@@ -1,0 +1,4 @@
+This is an adaptation of the original urllib2_file library at http://fabien.seisen.org/python/urllib2_file/
+
+It can now work on Google App Engine, you can see how I'm using it at:
+http://swizec.com/blog/programatically-uploading-to-blobstore-in-python/swizec/1423
